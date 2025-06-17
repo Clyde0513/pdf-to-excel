@@ -81,7 +81,7 @@ class DetailedDebugConverter:
             # If we have a current header and this looks like a name
             if current_header and self._looks_like_staff_name(line):
                 staff_data[current_header].append(line)
-                print(f"  ✅ {len(staff_data[current_header])}: {line}")
+                print(f"   {len(staff_data[current_header])}: {line}")
         
         print("\n=== FINAL COUNTS ===")
         for header in headers:
