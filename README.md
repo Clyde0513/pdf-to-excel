@@ -1,4 +1,4 @@
-# PDF to Excel Converter with Registry Staff Parser
+# PDF to Excel Converter with Registry Staff Parser (WINDOWS EDITION)
 
 This script converts scanned PDF files to Excel format using OCR (Optical Character Recognition) with specialized parsing for Registry Staff documents. It automatically extracts staff lists organized by categories and creates a structured Excel output.
 
